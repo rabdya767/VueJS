@@ -1,3 +1,6 @@
+[![CodeQL](https://github.com/rabdya767/VueJS/actions/workflows/codeql.yml/badge.svg)](https://github.com/rabdya767/VueJS/actions/workflows/codeql.yml)
+[![Lint Code Base](https://github.com/rabdya767/VueJS/actions/workflows/super-linter.yml/badge.svg)](https://github.com/rabdya767/VueJS/actions/workflows/super-linter.yml)
+[![Node.js CI](https://github.com/rabdya767/VueJS/actions/workflows/node.js.yml/badge.svg)](https://github.com/rabdya767/VueJS/actions/workflows/node.js.yml)
 # vue-crash-course
 
 ## Project setup
